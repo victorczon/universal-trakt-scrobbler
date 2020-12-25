@@ -1,25 +1,23 @@
 <h1 align="center">
   <br>
-  <img alt="Universal Trakt Scrobbler" src="https://github.com/trakt-tools/universal-trakt-scrobbler/raw/master/src/images/uts-icon-128.png" width="150">
-  <br>
-  Universal Trakt Scrobbler
-  <br>
+  	<img alt="Universal Trakt Scrobbler" src="https://raw.githubusercontent.com/trakt-tools/universal-trakt-scrobbler/master/src/assets/images/uts-icon-128.png" width="150">
+ <br>
+ 	 Universal Trakt Scrobbler
+ <br>
 </h1>
 <h4 align="center">A universal scrobbler for Trakt.tv.</h4>
-<p align="center">
-  <a href="https://github.com/trakt-tools/universal-trakt-scrobbler/releases">
-    <img alt="GitHub Release" src="https://img.shields.io/github/release/trakt-tools/universal-trakt-scrobbler.svg">
-  </a>
+	<p align="center">
+  		<a href="https://github.com/trakt-tools/universal-trakt-scrobbler/releases">
+    		<img alt="GitHub Release" src="https://img.shields.io/github/release/trakt-tools/universal-trakt-scrobbler.svg">
+  		</a>
+	</p>
+<p align="center" style="color: red;">
+    <img target="_blank" rel="noopener noreferrer" href="# url" alt="Get the extension on Chrome" src="https://github.com/trakt-tools/universal-trakt-scrobbler/raw/master/assets/chrome-badge.png" style="padding-right: 10px;">
+	 <img target="_blank" rel="noopener noreferrer" href="# url"  alt="Get the extension on Firefox" src="https://github.com/trakt-tools/universal-trakt-scrobbler/raw/master/assets/firefox-badge.png" style="padding-left: 10px;">
+<br>
+	no link for extension or addon is avalible at this moment
 </p>
-<p align=left">
-  <a href="">
-    <img alt="Get the extension on Chrome" src="https://github.com/trakt-tools/universal-trakt-scrobbler/raw/master/assets/chrome-badge.png">
-  </a>
-</p>
-<p align=left">
-  <a href="">
-    <img alt="Get the extension on Firefox" src="https://github.com/trakt-tools/universal-trakt-scrobbler/raw/master/assets/firefox-badge.png"></a>
-</p>
+<br>
 
 ### Table of Contents
 
